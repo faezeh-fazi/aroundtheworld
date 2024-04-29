@@ -80,8 +80,8 @@ _You will also have the following message: found 80 vulnerabilities (1 low, 79 m
 
 ### Added dependencies
 
-- gulp@4.0.2 (for Creative Tim copyrights)
-- gulp-append-prepend@1.0.8 (for Creative Tim copyrights)
+- gulp@4.0.2 (for AROUNDTHEWORLD copyrights)
+- gulp-append-prepend@1.0.8 (for AROUNDTHEWORLD copyrights)
 
 ### Updated dependencies
 
@@ -110,5 +110,5 @@ _Warnings might appear while doing an npm install - they do not affect the UI or
 
 - Started project with create-react-app
 - Added Reactstrap as base framework
-- Added design from Now UI Kit by Creative Tim
+- Added design from Now UI Kit by AROUNDTHEWORLD
 - Added React Hooks
